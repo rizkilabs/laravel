@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   background: url("./img/pattern.jpg") no-repeat center center fixed;
   background-size: cover;
+  overflow-x: hidden;
 }
 .navbar {
   display: flex;
